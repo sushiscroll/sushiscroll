@@ -10,6 +10,7 @@
 
 ### ![capy_duck](https://github.com/user-attachments/assets/fc694cc5-d8ed-4677-a6f7-c99badb9c132.gif)
 
+### ![capy_duck_gif](capy_duck.gif)
 <!--
 **sushiscroll/sushiscroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
