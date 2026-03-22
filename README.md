@@ -1,7 +1,7 @@
 ## Hi there 👋
-#### 🔭 I’m currently working on ...computer science open learning on Github and free code camp while I work on debt consolidation
-#### 📫 How to reach me: ... exotic.rainstorm@gmail.com
-#### 💬 Ask me about ... Pre-veterinary school, aerial lyra, animals
+#### 🔭 I’m currently working on ...computer science open learning on Github and free code camp while I finish school because I find data really interesting and useful just to have as a skill
+#### 📫 How to reach me: ... stormyeung@gmail.com
+#### 💬 Ask me about ... 90s cars, aerial lyra, animals
 #### ⚡ Fun fact: ... I'm in the first Deadpool movie 
 #### 🌱 I’m currently learning ... How to use Github! Harvard CS50 / CS50P, Free Code Camp - Responsive Web Design / Javascript Algorithms & Data Structures.
 #### ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
